@@ -4,5 +4,7 @@ new_word=string.split(" ")
 array=[]
 new_word.each do |string|
   array<< string.reverse
+end
+array
   
 end 
